@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Blog Post for Project
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+https://medium.com/wooden-information/opa-vs-moon-31f86cfdf374?sk=aabbacc94c7dbf7c7c189978a7cbc455
