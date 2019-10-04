@@ -12,9 +12,10 @@ description: A virtual proof that I'm awesome
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
+#"https://geoffreygordonashbrook.com"
 
 # baseurl should be an empty string
-baseurl: "https://lineality.github.io/"
+baseurl: "https://lineality.github.io"
 #"https://geoffreygordonashbrook.com"
 
 # --- Navigation bar options --- #
@@ -73,7 +74,7 @@ social-network-links:
   email: "geoffreygordonashbrook @ gmail.com"
   facebook: deanattali
   github: "https://github.com/lineality/"
-  twitter: daattali
+  twitter: "@GG_Ashbrook"
 #  reddit: yourname
   linkedin: "www.linkedin.com/in/geoffrey-gordon-ashbrook"
 #  xing: yourname
@@ -90,12 +91,13 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: FALSE
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "deanattali.com/beautiful-jekyll"
+#"MyWebsite.com"  # eg. 
 
 # --- Web Statistics Section --- #
 
